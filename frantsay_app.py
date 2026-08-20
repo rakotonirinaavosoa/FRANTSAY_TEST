@@ -29,7 +29,7 @@ from supabase import Client, create_client
 # =============================================================================
 
 APP_NAME = "FRANTSAY"
-MODEL_NAME = "gemini-2.5-flash"
+MODEL_NAME = "gemini-3.6-flash"
 LEVELS = ["Collège", "Lycée", "Université"]
 
 st.set_page_config(
